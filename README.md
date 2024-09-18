@@ -6,6 +6,7 @@ This repo contains tutorials covering understanding and implementing sequence cl
 
 Install the required dependencies with: `pip install -r requirements.txt --upgrade`.
 
+
 ## Tutorials
 
 1. Neural Bag of Words
